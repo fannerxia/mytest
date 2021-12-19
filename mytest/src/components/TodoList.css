@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+.site-card-border-less-wrapper {
+    padding: 30px;
+    background: #ececec;
+}
+.ant-tree-node-content-wrapper{
+    display: flex;
+}
+.ant-tree-icon__customize{
+    order: 1;
+}
+.icons-list{
+    margin-left: 20px;
+    width: 50px;
+}
+.icons-list span:last-child{
+    margin-left: 20px;
+}
